@@ -3,7 +3,7 @@
 </h1>
 
 # Reprograma | Bootcamp de Análise de Dados
-## 🚀 Exercícios para Casa 
+## 🚀 Projeto Final
 Turma Online on29 | 2024 | Professora Daviny Letícia
 
 Este repositório contém o **Projeto Final** desenvolvido para a conclusão do Bootcamp de Análise de Dados da Reprograma. O projeto reúne as principais habilidades adquiridas ao longo do curso, aplicadas em uma análise completa de dados, desde a obtenção até a visualização dos insights.
