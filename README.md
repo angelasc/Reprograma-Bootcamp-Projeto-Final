@@ -48,3 +48,6 @@ Entre novembro e dezembro de 2023, mais de 5.200 profissionais responderam à pe
 
 Este projeto analisa o mercado de trabalho para iniciantes na área de dados no Brasil em 2023. O objetivo é entender o cenário atual do setor, examinando informações demográficas, dados de carreira, habilidades exigidas e outros aspectos relevantes.
 
+## Visualização de Dados
+Para visualizar o dashboard do projeto, acesse o link: https://public.tableau.com/views/ReprogramaProjetoFinal/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
