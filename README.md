@@ -22,7 +22,6 @@ O Projeto Final tem como objetivo consolidar e demonstrar a capacidade de análi
 O repositório está organizado da seguinte maneira:
 - banco_de_dados.db: Arquivo do banco de dados gerado e manipulado pelo código Python.
 - main.py: Código principal onde as operações do banco de dados são realizadas.
-- requirements.txt: Dependências do projeto (caso existam).  
 
 ## 🖥️ Tecnologias utilizadas
 - Python: Linguagem de programação utilizada para interagir com o banco de dados.
