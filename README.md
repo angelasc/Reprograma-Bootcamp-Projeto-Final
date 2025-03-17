@@ -1,27 +1,34 @@
 <h1 align="center">
-  <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
+  <img style="background: white;width: 30%" src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
 # Reprograma | Bootcamp de Análise de Dados
 ## 🚀 Projeto Final
 Turma Online on29 | 2024 | Professora Daviny Letícia
 
-Este repositório contém o **Projeto Final** desenvolvido para a conclusão do Bootcamp de Análise de Dados da Reprograma. O projeto reúne as principais habilidades adquiridas ao longo do curso, aplicadas em uma análise completa de dados, desde a obtenção até a visualização dos insights.
+Este repositório contém o Projeto Final do Bootcamp de Análise de Dados da {reprograma}. Nele, foram aplicadas as principais habilidades aprendidas no curso em um estudo de caso real, passando por coleta, limpeza, exploração, visualização e interpretação dos dados, culminando em insights relevantes.
 
 ## 📌 Descrição
-O Projeto Final tem como objetivo consolidar e demonstrar a capacidade de análise de dados por meio de um estudo de caso real. A análise envolve coleta, limpeza, exploração, visualização e interpretação de dados, culminando na apresentação de conclusões relevantes.
+Este projeto analisa o mercado de trabalho para iniciantes na área de dados no Brasil, com base em dados da **State of Data Brazil 2023**. O objetivo é compreender o cenário atual do setor, explorando aspectos como perfil demográfico, trajetória profissional, habilidades exigidas e outros fatores relevantes.  
+
+A pesquisa **State of Data Brazil 2023**, conduzida pela comunidade **Data Hackers** em parceria com a **Bain & Company**, é a mais abrangente sobre o mercado de dados no Brasil. Em sua 4ª edição, realizada entre novembro e dezembro de 2023, contou com a participação de mais de 5.200 profissionais, fornecendo insights valiosos sobre a área.
 
 ## 🎯 Objetivos do projeto
-- Definir um problema ou pergunta de pesquisa relevante para análise.
-- Coletar e limpar os dados necessários.
-- Explorar os dados por meio de estatísticas descritivas e análise exploratória.
-- Criar visualizações impactantes para comunicar os insights obtidos.
-- Desenvolver um relatório ou dashboard para apresentação dos resultados.
-  
+- Identificar a faixa etária mais comum entre profissionais iniciantes na área de dados.  
+- Analisar as formações acadêmicas mais frequentes entre aqueles no início da carreira.  
+- Determinar o tempo médio de busca por oportunidades para quem está migrando de carreira.  
+- Examinar a média salarial por cargo na área de dados.  
+- Mapear as regiões com maior concentração de profissionais da área.
+
+## 👣 Etapas do projeto
+- Definição: Estabelecer a questão central ou problema de pesquisa.
+- Coleta: Preparação dos dados necessários para análise.
+- Limpeza: Tratamento de inconsistências e organização dos dados.
+- Exploração: Aplicação de estatísticas descritivas e análise exploratória.
+- Visualização/Apresentação: Criação de gráficos e um dashboard para destacar insights.
+
 ## 📝 Conteúdo do Repositório  
-O repositório está organizado da seguinte maneira:
-- banco_de_dados.db: Arquivo do banco de dados gerado e manipulado pelo código Python.
-- main.py: Código principal onde as operações do banco de dados são realizadas.
+- **Reprograma_Projeto_Final_Angela.ipynb**: notebook Jupyter contendo consultas para tratamento e análise exploratória dos dados.
 
 ## 🖥️ Tecnologias utilizadas
 - Python: Linguagem de programação utilizada para interagir com o banco de dados.
@@ -30,24 +37,8 @@ O repositório está organizado da seguinte maneira:
 - SQL: Linguagem para manipulação dos dados no banco de dados.
 - Tableau: Para criação de dashboards interativos
 
----
+## 🔗 Links
+- Base de dados original: [State of Data Brazil 2023](https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-2023/data)
+- Dashboard: https://public.tableau.com/views/ReprogramaProjetoFinal/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-
-# Overview
-
-# Mercado de Dados para Iniciantes na Área
-
-## Conjunto de Dados Escolhido
-
-**State of Data Brazil 2023**  
-Entre novembro e dezembro de 2023, mais de 5.200 profissionais responderam à pesquisa State of Data Brazil—a pesquisa anual que fornece a visão mais abrangente sobre o mercado de trabalho em dados no Brasil. Realizada pela comunidade Data Hackers em parceria com a Bain & Company, esta é a 4ª edição da pesquisa, iniciada em 2019.
-
-**Link para download:** [State of Data Brazil 2023](https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-2023/data)
-
-## Objetivos Gerais e Específicos do Projeto
-
-Este projeto analisa o mercado de trabalho para iniciantes na área de dados no Brasil em 2023. O objetivo é entender o cenário atual do setor, examinando informações demográficas, dados de carreira, habilidades exigidas e outros aspectos relevantes.
-
-## Visualização de Dados
-Para visualizar o dashboard do projeto, acesse o link: https://public.tableau.com/views/ReprogramaProjetoFinal/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
